@@ -1,0 +1,11 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "practices",
+  "main": "logicExercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vignolo_3@hotmail.com",
+  "license": "ISC"
+}
